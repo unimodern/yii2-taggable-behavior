@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-taggable-behavior",
+    "name": "unimodern/yii2-taggable-behavior",
     "description": "The taggable behavior for the Yii framework",
     "keywords": [
         "2amigos",
@@ -11,7 +11,7 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/2amigos/yii2-taggable-behavior",
+    "homepage": "https://github.com/unimodern/yii2-taggable-behavior",
     "authors": [
         {
             "name": "Alexander Kochetov",
