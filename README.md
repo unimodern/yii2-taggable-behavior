@@ -22,7 +22,7 @@ $ composer require 2amigos/yii2-taggable-behavior:~1.0
 or add
 
 ```
-"2amigos/yii2-taggable-behavior": "~1.0"
+"unimodern/yii2-taggable-behavior": "~1.0"
 ```
 
 to the `require` section of your `composer.json` file.
