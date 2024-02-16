@@ -7,7 +7,7 @@
 
 namespace tests\models;
 
-use dosamigos\taggable\Taggable;
+use unimodern\taggable\Taggable;
 
 /**
  * Post
